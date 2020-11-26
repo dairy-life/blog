@@ -16,9 +16,9 @@ Introduction to general eigenvalue problems with contour integrals.
 
 ## Context 
 
-| Name   | Author | File format| File   | 
-| ------ | ------ | ------     | ------ |
-| Contour integrals and Rayleigh-Ritz procedure in nonlinear eigenvalue problems  | R. DAI   | PDF | [Download](https://gitlab.com/ruiyang/blog/-/raw/master/READMEFILES/ci_rr_full.pdf?inline=false) |
+| Name   | Author   | File     |
+| ------ | :------: | :------: |
+| Contour integrals and Rayleigh-Ritz procedure in nonlinear eigenvalue problems  | R. DAI | [Download](https://gitlab.com/ruiyang/blog/-/raw/master/READMEFILES/ci_rr_full.pdf?inline=false) |
 
 ## References
 1. Beyn's algorithm 
