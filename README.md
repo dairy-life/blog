@@ -36,4 +36,17 @@ Introduction to general eigenvalue problems with contour integrals.
 
 # 2 Domain decomposition methods
 
-(In progress)
+# 2 Domain decomposition methods
+
+Talk at [Eccomas Congress 2020 \& 14th WCCM](https://www.wccm-eccomas2020.org/).
+
+## Context 
+
+| Name   | Author   | File     |
+| ------ | :------: | :------: |
+| Parallel Sweeping Preconditioners for CDDs Applied to the Helmhlotz Equation  | R. DAI | [Download]() |
+
+## References
+
+1.  Yassine Boubendir, Xavier Antoine, Christophe Geuzaine, [*A Quasi-Optimal Non-Overlapping Domain Decomposition Algorithm for the Helmholtz Equation*.](https://hal.archives-ouvertes.fr/hal-00573550/document)
+2.  A. Modave, C. Geuzaine, X. Antoine, [*Corner treatments for high-order local absorbing boundary conditions in high-frequency acoustic scattering*.](https://reader.elsevier.com/reader/sd/pii/S0021999119307351?token=92F0F4F3F187F62E6BD38BCE4698675075D1381A9846D684D18D0E3A27F39351BB1859F7C7F0F562294E0C0798E442A4)
