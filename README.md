@@ -36,8 +36,6 @@ Introduction to general eigenvalue problems with contour integrals.
 
 # 2 Domain decomposition methods
 
-# 2 Domain decomposition methods
-
 Talk at [Eccomas Congress 2020 \& 14th WCCM](https://www.wccm-eccomas2020.org/).
 
 ## Context 
