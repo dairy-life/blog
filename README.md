@@ -38,11 +38,17 @@ Introduction to general eigenvalue problems with contour integrals.
 
 Talk at [Eccomas Congress 2020 \& 14th WCCM](https://www.wccm-eccomas2020.org/).
 
-## Context 
+## Slides 
 
 | Name   | Author   | File     |
 | ------ | :------: | :------: |
 | Parallel Sweeping Preconditioners for CDDs Applied to the Helmhlotz Equation  | R. DAI | [Download]() |
+
+## Videos 
+
+| Name   | Author   | File     |
+| ------ | :------: | :------: |
+| Parallel Sweeping Preconditioners for CDDs Applied to the Helmhlotz Equation  | R. DAI | [Watch now](https://studio.slideslive.com/web_recorder/share/20201128T150506Z__WCCM-ECCOMAS20__1810__parallel-sweeping-precondition?s=139c1733-d62b-42b9-9ba7-2b486284cf2b) |
 
 ## References
 
