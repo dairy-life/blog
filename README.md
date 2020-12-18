@@ -6,7 +6,7 @@
 
 Now he is a PhD researcher at Université catholique de Louvain.
 
-His project is _Fast Helmholtz solvers on Multi-Threaded Atchitectures_ under the supervision of Prof. Jean-François Remacle.
+His project is _Fast Helmholtz solvers on Multi-Threaded Atchitectures_ under the supervision of Prof. Jean-François Remacle and Prof. Christhophe Geuzaine.
 
 Email adress: __ruiyang.dai@uclouvain.be__
 
