@@ -2,13 +2,9 @@
 
 ---
 
-**Ruiyang DAI** completed his master in Mechanical Engineering at Ecole Centrale de Nantes in France in 2016.
+**Ruiyang DAI** is a PhD student at [UCLouvain](https://uclouvain.be/en/index.html) and a member in the [HEXTREME](https://www.hextreme.eu/) team. 
 
-Now he is a PhD researcher at Université catholique de Louvain.
-
-His project is _Fast Helmholtz solvers on Multi-Threaded Atchitectures_ under the supervision of Prof. Jean-François Remacle and Prof. Christhophe Geuzaine.
-
-Email adress: __ruiyang.dai@uclouvain.be__
+Email address: __ruiyang.dai@uclouvain.be__
 
 # 1 Nonlinear Eigenvalue problems
 
