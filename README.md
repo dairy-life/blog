@@ -15,6 +15,7 @@ Email address: __ruiyang.dai@uclouvain.be__
 + Wave propagation
 + Electromagnetism
 + Linear algebra
++ Domain decomposition methods
 
 # Current Activities
 
